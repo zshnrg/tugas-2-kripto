@@ -129,3 +129,11 @@ Program ini memiliki fitur:
 - Enkripsi dan dekripsi dengan RC4 yang telah dimodifikasi
 - Kustomisasi kunci atau randomize kunci
 - Pengenkripsi dan dekripsian file dan text ketikkan
+
+|  No  | Spesifikasi | Berhasil | Gagal | Deskripsi |
+| :--: | ----------- | :------- | :---- | :-------- |
+| 1 | Program dapat menerima pesan berupa file sembarang atau pesan dari papan-ketik | ✔️ |    | Kompatibel dengan segala jenis file maupun teks |
+| 2 | Program dapat mengenkripsi plainteks dan mendekripsi cipherteks menjadi plainteks semula. | ✔️ |    | Program dapat berlaku reversibel |
+| 3 | Menampilkan plainteks dan cipherteks di layar dalam format base64 | ✔️ |    | Teks hasil enkripsi maupun dekripsi ditampilkan dalam base64 |
+| 4 | Program dapat menyimpan cipherteks ke dalam file | ✔️ |    | Program dapat menyimpan hasil cipherteks ke dalam file ekstensi `.hts` |
+| 5 | Kunci dimasukkan oleh pengguna. Panjang kunci bebas | ✔️ |    | Pengguna dapat memasukkan sendiri kunci maupun me-random kunci |
