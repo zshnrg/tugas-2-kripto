@@ -15,7 +15,7 @@ Repositori ini merupakan sebuah project aplikasi <b>Krip-Chip!</b>, program yang
 
 <p align="center">
   <a href="#about">About</a> |
-  <a href="#system-requirement">System Requirements</a> |
+  <a href="#system-requirements">System Requirements</a> |
   <a href="#installation---android">Installation (Android)</a> |
   <a href="#installation---windows">Installation (Windows)</a> |
   <a href="#features">Features</a>
@@ -29,7 +29,7 @@ Aplikasi ini dapat melakukan enkripsi pada pesan teks dan mendekripsi cipherteks
 
 Program ini ditulis dalam bahasa Python yang dibantu dengan library Flet (Flutter) untuk membuat program kompatibel dengan sistem operasi Android.
 
-## System Requirement
+## System Requirements
 
 - Python 3.8 atau lebih baru.
 - Library Flet versi terbaru
