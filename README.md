@@ -4,7 +4,7 @@
 
   
 <p align="center">
-Repositori ini merupakan sebuah project aplikasi <b>Krip-Chip!</b>, program yang menyediakan algoritma enkripsi RC4 termodifikasi pada aplikasi mobile untuk memenuhi <b>Tugas 2 II4031 2024: Program Modifikasi RC4 dengan Konsep Extended Vigenere Cipher</b>
+Repositori ini merupakan sebuah project aplikasi <b>Krip-Chip!</b>, program yang menyediakan algoritma enkripsi RC4 termodifikasi pada aplikasi mobile untuk memenuhi <b>Tugas 2 II4031 2024: Program Modifikasi RC4 dengan Konsep Extended Vigenere Cipher dan Playfair Cipher</b>
 </p>
 
 <br>
@@ -23,7 +23,7 @@ Repositori ini merupakan sebuah project aplikasi <b>Krip-Chip!</b>, program yang
 
 ## About
 
-Krip-Chip! merupakan multi-platform yang difokuskan pada aplikasi mobile yang dirancang untuk menyediakan fungsi enkripsi dan dekripsi yang aman dengan menggabungkan modifikasi RC4 dengan konsep Extended Vigenere Cipherdan Playfair Cipher. Dengan aplikasi ini, pengguna dapat dengan mudah mengamankan pesan teks atau berkas biner.
+Krip-Chip! merupakan multi-platform yang difokuskan pada aplikasi mobile yang dirancang untuk menyediakan fungsi enkripsi dan dekripsi yang aman dengan menggabungkan modifikasi RC4 dengan konsep Extended Vigenere Cipher dan Playfair Cipher. Dengan aplikasi ini, pengguna dapat dengan mudah mengamankan pesan teks atau berkas biner.
 
 Aplikasi ini dapat melakukan enkripsi pada pesan teks dan mendekripsi cipherteks kembali menjadi pesan teks asli, memastikan komunikasi yang aman. Selain itu, untuk pesan teks, aplikasi dapat menampilkan pesan teks asli dan cipherteks dalam format layer, seperti format string atau dalam format base64. Pengguna juga dapat menyimpan cipherteks ke dalam berkas terenkripsi custom untuk keamanan tambahan. Fleksibilitas kunci juga diberikan, memungkinkan pengguna untuk memasukkan kunci sesuai keinginan mereka tanpa batasan panjang
 
